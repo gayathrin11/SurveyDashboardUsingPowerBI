@@ -5,3 +5,4 @@
 **Skills:** Data Cleaning, Data Validation, Data Visualization
 
 **Tools:** Power BI
+![Dashboard](https://github.com/user-attachments/assets/bac6304f-86de-427e-818c-ae164daa9c69)
